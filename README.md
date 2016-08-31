@@ -1,0 +1,1 @@
+Use PECL::redis for php-resque.
